@@ -4,8 +4,7 @@
 ! author: Carlo Pezzuto
 ! avatar: #9244e0
 
-
+$discard
+$boost=4,site=linkedin.com/in
 $boost=1,site=linkedin.com/pulse
 $boost=1,site=linkedin.com/post
-$boost=4,site=linkedin.com/in
-
