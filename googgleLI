@@ -6,5 +6,5 @@
 
 
 $discard
+$boost,site=linkedin.com/in/
 
-$boost=4,site=linkedin.com/in/
