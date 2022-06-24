@@ -5,7 +5,7 @@
 ! avatar: #9244e0
 
 
-$discard,linkedin.com/pulse
-$discard,linkedin.com/post
-$boost,site=linkedin.com/in/
+$discard,site=linkedin.com/pulse
+$discard,site=linkedin.com/post
+$boost=4,site=linkedin.com/in/
 
