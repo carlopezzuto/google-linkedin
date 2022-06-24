@@ -1,8 +1,7 @@
-! name: Linkedin people
-! description: search only on linkedin
+! name: Linkedin
+! description: prioritaze LI
 ! public: true
-! author: Carlo Pezzuto
-! avatar: #9244e0
+! author: Carlo P
 
 $discard
-$boost,site=linkedin.com/in/
+$site=linkedin.com/in,boost=3
