@@ -4,4 +4,4 @@
 ! author: Carlo P
 
 $discard
-$site=linkedin.com/in,boost=3
+$boost=4,site=linkedin.com/in/
