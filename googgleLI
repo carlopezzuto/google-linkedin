@@ -6,7 +6,7 @@
 
 
 
-$boost=3,site=linkedin.com/in
+$boost=3,site=linkedin.com
 
 $discard
 $downrank,site=medium.com
